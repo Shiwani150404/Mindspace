@@ -34,6 +34,7 @@ Balancing work, mental well-being, and consistency can be overwhelming. "MindSpa
 💬 Motivational Quotes: Pull quotes based on mood
 🌙 Dark Mode (Future Feature)
 
+
 ###💡 Contribution Guidelines
 We welcome contributions! Here’s how you can help:
 
