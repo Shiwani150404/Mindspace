@@ -25,23 +25,6 @@ Balancing work, mental well-being, and consistency can be overwhelming. "MindSpa
 | Deployment  | GitHub Pages / Netlify        |
 | Others      | Git, GitHub, Markdown         |
 
-
-## 📦 Installation Instructions
-
-### ✅ Prerequisites:
-- Modern Web Browser (Chrome, Firefox, etc.)
-- Internet Connection (for Firebase version)
-
-### 🛠️ Steps (Frontend Version):
-
-```bash
-# Step 1: Clone the repository
-git clone https://github.com/yourusername/MindSpace.git
-cd MindSpace
-
-# Step 2: Open index.html in your browser
-# (You can directly double-click the file or open using Live Server)
-
 **📁Project Structure**
 MindSpace/
 │
@@ -93,3 +76,21 @@ Everyone contributing to this project ❤️
 AI-powered journaling insights: Summarizing user reflections
 Role-based dashboards: Personal and work modes
 Advanced data analytics: Predictive mood and productivity patterns
+
+## 📦 Installation Instructions
+
+### ✅ Prerequisites:
+- Modern Web Browser (Chrome, Firefox, etc.)
+- Internet Connection (for Firebase version)
+
+### 🛠️ Steps (Frontend Version):
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/yourusername/MindSpace.git
+cd MindSpace
+
+# Step 2: Open index.html in your browser
+# (You can directly double-click the file or open using Live Server)
+
+
