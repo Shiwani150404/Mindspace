@@ -42,7 +42,7 @@ cd MindSpace
 # Step 2: Open index.html in your browser
 # (You can directly double-click the file or open using Live Server)
 
-📁Project Structure
+**##📁Project Structure**
 MindSpace/
 │
 ├── index.html                # Main landing page
@@ -52,7 +52,7 @@ MindSpace/
 ├── /scripts                  # JavaScript files (mood log, charts)
 └── README.md                 # Project documentation
 
-## Features
+**## Features**
 🌤️ Mood Tracker: Track daily moods using emojis (happy, sad, neutral)
 📚 Work/Study Tracker: Log daily productivity goals
 📝 Personal Journaling: Short reflection entries
@@ -60,7 +60,7 @@ MindSpace/
 💬 Motivational Quotes: Pull quotes based on mood
 🌙 Dark Mode (Future Feature)
 
-💡 Contribution Guidelines
+**💡 Contribution Guidelines**
 We welcome contributions! Here’s how you can help:
 
 1. Fork the repository
@@ -69,7 +69,7 @@ We welcome contributions! Here’s how you can help:
 4. Push to your fork and submit a Pull Request
 
 
-🎯 Good First Issues:
+**🎯 Good First Issues:**
 Adding new mood emojis
 Enhancing the UI with CSS
 Integrating more chart types (e.g., line graphs for mood over time)
@@ -77,23 +77,19 @@ Integrating more chart types (e.g., line graphs for mood over time)
 > For more detailed contribution steps, refer to the CONTRIBUTING.md (can be added).
 
 
-🐛 Found a Bug? Want a Feature?
+**🐛 Found a Bug? Want a Feature?**
 1. Raise an Issue: Label it as bug, enhancement, or good first issue
 2. Feature Suggestions: Use the Discussions tab for suggestions
 
-📌 License
-
+**📌 License**
 This project is licensed under the MIT License. See LICENSE for more information.
 
-👥 Acknowledgements
-
+**👥 Acknowledgements**
 Chart.js for visualizing mood data
-
 Firebase for easy database management
-
 Everyone contributing to this project ❤️
 
-🌱 Future Features
+**🌱 Future Features**
 AI-powered journaling insights: Summarizing user reflections
 Role-based dashboards: Personal and work modes
 Advanced data analytics: Predictive mood and productivity patterns
