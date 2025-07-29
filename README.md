@@ -42,7 +42,7 @@ cd MindSpace
 # Step 2: Open index.html in your browser
 # (You can directly double-click the file or open using Live Server)
 
-**##📁Project Structure**
+**📁Project Structure**
 MindSpace/
 │
 ├── index.html                # Main landing page
